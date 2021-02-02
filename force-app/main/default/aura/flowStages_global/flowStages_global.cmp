@@ -7,7 +7,8 @@
   Ver   Date         Author                               Modification
   1.0   02-01-2021   Meighan Brodkey  Initial Version
 -->
-<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+<aura:component implements="flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes" access="global" >
+
    <aura:attribute name="currentStage" type="Object"/>
    <aura:attribute name="activeStages" type="Object[]"/>
 
