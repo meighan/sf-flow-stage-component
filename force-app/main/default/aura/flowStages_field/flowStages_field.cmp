@@ -1,12 +1,12 @@
 <!--
   @description       : 
-  @author            : ChangeMeIn@UserSettingsUnder.SFDoc
+  @author            : Meighan Brodkey
   @group             : 
   @last modified on  : 02-01-2021
-  @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+  @last modified by  : Meighan Brodkey
   Modifications Log 
   Ver   Date         Author                               Modification
-  1.0   02-01-2021   ChangeMeIn@UserSettingsUnder.SFDoc   Initial Version
+  1.0   02-01-2021   Meighan Brodkey   Initial Version
 -->
 <aura:component implements="lightning:availableForFlowScreens">
    <!-- Attributes that store $Flow.ActiveStages and $Flow.CurrentStage -->
